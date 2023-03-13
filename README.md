@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa ARSLAN</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
+<img align="right" width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslnmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="arslnmustafa" /> </p>
 
 
