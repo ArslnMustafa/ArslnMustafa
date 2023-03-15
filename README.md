@@ -4,7 +4,7 @@
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 <img align="right" width="45%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslnmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="arslnmustafa" /> </p>
+
 
 
 - 🔭 I’m currently working on [Mobius Yazılım Çözümleri](https://tr.linkedin.com/company/mobius-yaz%C4%B1l%C4%B1m-%C3%A7%C3%B6z%C3%BCmleri-san-ve-tic-ltd-%C5%9Fti?original_referer=)
@@ -26,6 +26,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslnmustafa&show_icons=true&locale=en" alt="arslnmustafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslnmustafa&" alt="arslnmustafa" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslnmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="arslnmustafa" /> </p>
 <div align="center">
 	<img src="https://github.com/ArslnMustafa/ArslnMustafa/blob/main/assets/t%C4%B1yt%C4%B1l.svg" />
 </div>
+
