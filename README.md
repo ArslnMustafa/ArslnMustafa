@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arslnmustafa&show_icons=true&locale=en" alt="arslnmustafa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslnmustafa&" alt="arslnmustafa" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arslnmustafa&" alt="arslnmustafa" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arslnmustafa&label=Profile%20views&color=0e75b6&style=flat" alt="arslnmustafa" /> </p>
 <div align="center">
 	<img src="https://github.com/ArslnMustafa/ArslnMustafa/blob/main/assets/ss1.svg" />
